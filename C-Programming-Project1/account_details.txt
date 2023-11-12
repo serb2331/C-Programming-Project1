@@ -1,0 +1,15 @@
+Ionel
+100.000000
+3
+1
+10.000000
+1 1 2
+Transfer Bunici
+2
+10.000000
+1 1 2
+placeholder
+1
+100.000000
+1 1 4
+Abonament Sala
